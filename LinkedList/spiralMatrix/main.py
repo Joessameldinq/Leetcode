@@ -40,6 +40,7 @@ class Solution:
                 else:
                     break
             left +=1
+        return grid
 
 
 
